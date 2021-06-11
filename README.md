@@ -9,3 +9,5 @@ in the script you write the phone number (i am from Germany so if you not from G
 then write your message 
 then the hour when it will send it 
 and the minutes
+
+And write the code in good English because i am not the best
