@@ -8,7 +8,7 @@ seconde type in the terminal "pip install pywhatkit")
 
 and then run the script
 
-in the script you write the phone number (i am from Germany so if you not from Germany you have to change the prefix in the code) and (the telephone number may not 
+in the script you write the phone number (you have to set your own prefix) and (the telephone number may not 
 contain spaces)
 
 then write your message 
@@ -17,4 +17,4 @@ then the hour when it will send it
 
 and the minutes
 
-And write the code in good English because i am not the best
+And please rewrite my English because my English is bad
