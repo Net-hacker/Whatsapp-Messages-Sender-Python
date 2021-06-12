@@ -1,7 +1,13 @@
 import pywhatkit
 from pynput.keyboard import Key, Controller
 import time
+import os
 
+#If you wanna remove the created .txt File let this here else remove that (not recommendet)
+if os.path.exists('#Add your path here/pywhatkit_dbs.txt'):
+    os.remove('#Add your path here/pywhatkit_dbs.txt' )
+
+#The Script
 keyboard = Controller()
 print('Have you connected Whatsapp with Whatsapp Web. If not press ctrl + c')
 time.sleep(5)
