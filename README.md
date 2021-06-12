@@ -17,4 +17,6 @@ then the hour when it will send it
 
 and the minutes
 
+A .txt File will be createt with all the aktivitis so if you don't want that write your path in the Script where #Add your path here is written
+
 And please rewrite my English because my English is bad
