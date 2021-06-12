@@ -1,6 +1,7 @@
 import pywhatkit
 from pynput.keyboard import Key, Controller
 import time
+#If you wanna remove the created .txt File let this here else remove that (not recommendet)
 import os
 
 #If you wanna remove the created .txt File let this here else remove that (not recommendet)
