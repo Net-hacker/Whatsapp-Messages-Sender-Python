@@ -1,12 +1,12 @@
 import pywhatkit
 from pynput.keyboard import Key, Controller
 import time
-#If you wanna remove the created .txt File let this here else remove that (not recommendet)
+#If you wanna remove the created .txt File let this here else remove that (not recommended)
 import os
 
-#If you wanna remove the created .txt File let this here else remove that (not recommendet)
-if os.path.exists('#Add your path here/pywhatkit_dbs.txt'):
-    os.remove('#Add your path here/pywhatkit_dbs.txt' )
+#If you wanna remove the created .txt File let this here else remove that (not recommended)
+if os.path.exists('pywhatkit_dbs.txt'):
+    os.remove('pywhatkit_dbs.txt' )
 
 #The Script
 keyboard = Controller()
