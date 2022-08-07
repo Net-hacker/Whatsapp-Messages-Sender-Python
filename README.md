@@ -8,8 +8,7 @@ seconde type in the terminal "pip install pywhatkit")
 
 and then run the script
 
-in the script you write the phone number (you have to set your own prefix) and (the telephone number may not 
-contain spaces)
+in the script you write the phone number (you have to set your own prefix)
 
 then write your message 
 
